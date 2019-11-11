@@ -1,4 +1,4 @@
-package com.zl.skin;
+package com.zl.skinlibrary;
 
 import android.content.Context;
 

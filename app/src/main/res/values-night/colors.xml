@@ -4,7 +4,7 @@
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
 
-    <!--白天-->
-    <color name="commonTextColor">#008577</color>
-    <color name="commonTextColor1">#ffffff</color>
+    <!--黑夜-->
+    <color name="commonTextColor">#3f5185</color>
+    <color name="commonTextColor1">#000000</color>
 </resources>
