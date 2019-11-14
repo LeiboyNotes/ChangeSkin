@@ -1,1 +1,1 @@
-include ':app', ':zl_skin'
+include ':app', ':skin_packages', ':skin_library'
